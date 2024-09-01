@@ -14,3 +14,5 @@
 <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/-TypeScript-2f74c0?style=flat&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/-Node.js-026E00?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=NPM&logoColor=white"/> <img src="https://img.shields.io/badge/-jQuery-0865a6?style=flat&logo=jquery&logoColor=white"/>
 <br>
 <br>
+
+niedlugo cos tu dodam
